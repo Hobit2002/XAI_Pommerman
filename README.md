@@ -4,7 +4,7 @@ This repository includes data about duels of different algorithms in Pommerman g
 
 ***Pommerman***: *Board game for algorithm competitions. Its rules have many versions but in out instance, there are two agents moving on the 11 x 11 board who can place a ticking bombs on the board and try to kill their opponents. The game is also spiced by some minor fetures like collecting items which increase agents ammo or blast range of his bombs, ability of agents to kick bombs on some occassions and destroyability of some impassable tiles.*
 
-<img src="illustration.png" alt="MarineGEO circle logo" style="height: 500px"/>
+<img src="illustration.png" alt="Game screnshot" style="height: 500px"/>
 
 
 
